@@ -10,5 +10,5 @@ I spent a lot of time on the game, but very little on the UI (and it shows, haha
 5a. The characters were based on some of my friends; however, selecting JJ (me) gives you the best stats. Whoops...
 6. From here, use W to move left, D to move right, W to jump, Space to fire a bullet, and S to automatically die and reselect a character. Other than that, the goal is to shoot any other people without getting hit yourself! (You can respawn though so it's fine).
 
-PLEASE NOTE: This was made in high school, and this was also before I realized code style and documentation were important things. Still, it is probably the most fun game I made in high school and my friends and I had a good time with it.
+PLEASE NOTE: This was made in high school, and this was also before I realized code style and documentation were important things. Still, it is probably the most fun game I made in high school and my friends and I had a good time  playing it.
 
