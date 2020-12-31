@@ -1,4 +1,5 @@
-# HeroBrawl
+# HeroBrawl: Made in high school
+PLEASE NOTE: This was made in high school, and this was also before I realized code style and documentation were important things. Still, it is probably the most fun game I made in high school and my friends and I had a good time  playing it.
 
 This was the largest game I built in high school. Hero Brawl is a game side-scroller shooter game that I made in high school for my friends and I to play. Like all the Java games I’ve made, I built Hero Brawl from scratch and without engines or plugins. It is an online game where each character is modeled off of one of my friends, so that they can play with their own individual traits. The game includes basic physics and movement in a 2D environment, and incorporates basic networking protocols.
 
@@ -9,6 +10,3 @@ I spent a lot of time on the game, but very little on the UI (and it shows, haha
 5. Once you have entered a game, you will be given the option to choose your character. Click on the box above the correspponding name, and hit start
 5a. The characters were based on some of my friends; however, selecting JJ (me) gives you the best stats. Whoops...
 6. From here, use W to move left, D to move right, W to jump, Space to fire a bullet, and S to automatically die and reselect a character. Other than that, the goal is to shoot any other people without getting hit yourself! (You can respawn though so it's fine).
-
-PLEASE NOTE: This was made in high school, and this was also before I realized code style and documentation were important things. Still, it is probably the most fun game I made in high school and my friends and I had a good time  playing it.
-
